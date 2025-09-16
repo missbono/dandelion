@@ -16,7 +16,7 @@ Installation
 ```
 git --version
 ```
-1. If you do not see output telling you which version of git you have, install git on your Mac (select the binary installer OR use [Homebrew](brew.sh)).
+1. If you do not see output telling you which version of git you have, [install git](https://git-scm.com/downloads/mac) on your Mac (select the binary installer OR use [Homebrew](brew.sh)).
     1. If you see an error message, go to System Preferences → Security & Privacy → General, under "Allow apps downloaded from:" select the final option that allows you to run the git installer.
 1. Make sure your Terminal understands the "git" command:
 ```
